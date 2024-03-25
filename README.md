@@ -1,0 +1,1 @@
+This is a small project showcasing web scraping and driving a website via Selenium in the context of automating Google form filling. It first extracts info from an online portal for real estate and then fills this info into a form. See [here](https://youtu.be/BdPUj7b38fA) for a quick demonstration. 
